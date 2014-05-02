@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt-lib-phantomjs": "~0.5.0"
+    "grunt-lib-phantomjs": "git+ssh://git@github.com:bclwhitaker/grunt-lib-phantomjs.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
